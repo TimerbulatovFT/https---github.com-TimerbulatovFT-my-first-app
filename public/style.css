@@ -1,0 +1,23 @@
+#inputField{
+height: 50px;
+width: 470px;
+font-size:40px;
+text-align: right;
+padding: 0 15px 0 15px;
+margin: 1px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+.btn, .btnValue{
+    width:124px;
+    height:70px;
+    font-size: 50px;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 0;
+    margin: 1px;
+}
+.btn:hover, .btnValue:hover{
+    background-color: rgb(200, 200, 200);
+}
